@@ -12,3 +12,7 @@ Created/Working on
 - [Initial Gray Scales](https://www.figma.com/design/n8jnoLE1WFTgvaBDI8wZqc/sBTC?node-id=24-330&t=WrRUjgMpDNw0Zk90-4)
 
 Pending further progress on designs basic development environment has been completed and currently creating standard single & double column layouts in preparation.
+
+## July 8 - 10
+
+- Iterated on Grayscales designs for Withdraw, Deposit, History [Latest Iterations](https://www.figma.com/design/n8jnoLE1WFTgvaBDI8wZqc/sBTC?node-id=114-1163&t=DTkU3dQIofLHow1y-4)
