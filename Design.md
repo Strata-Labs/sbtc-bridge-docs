@@ -33,3 +33,24 @@ Working through our first landing page grayscale iterations.
 
 - Current Fav: A center sub nav which would allow the user to easily switch between actions.
 - Notice the sub title to the bottom left of the sub nav, "Deposit -> Convert BTC.." this tells the user how many further steps there are in order to complete this action.
+
+## High Fidelity Screens
+
+[Designs](https://www.figma.com/design/n8jnoLE1WFTgvaBDI8wZqc/sBTC?node-id=227-1143&t=8GSqmd0GHFctMsQO-4)
+![High Fidelity View](./images/highFidlity.png)
+
+### Deposit
+
+![Deposit View](./images/deposit.png)
+
+### Withdraw
+
+![Withdraw view](./images/withdraw.png)
+
+### History
+
+![History View](./images/History.png)
+
+### Learn More
+
+![Learn More](./images/learnMore.png)
