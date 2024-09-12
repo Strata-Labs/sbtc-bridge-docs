@@ -39,7 +39,7 @@ Working through our first landing page grayscale iterations.
 [Designs](https://www.figma.com/design/n8jnoLE1WFTgvaBDI8wZqc/sBTC?node-id=227-1143&t=8GSqmd0GHFctMsQO-4)
 ![High Fidelity View](./images/highFidlity.png)
 
-### Deposit
+### Depositƒ
 
 ![Deposit View](./images/deposit.png)
 
